@@ -3,7 +3,7 @@ Teste de seleção - Front-end
 Nesse projeto utilizei do php e html.
 
 tentei fazer uso do vue.js mas os tutoriais na internet sobre a liguagem são bastante escarssos.
-logo perdi muito tempo com a ferramenta entao optei por usar o php que existe mais conteudos sobre a linguagem.
+logo perdi muito tempo com a ferramenta entao optei por usar o php, que existe mais conteudos sobre a linguagem.
 
 MIT License
 
